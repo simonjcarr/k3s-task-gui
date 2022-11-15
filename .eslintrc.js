@@ -7,6 +7,7 @@ module.exports = {
     "plugin:vue/vue3-essential",
     "eslint:recommended",
     "plugin:prettier/recommended",
+    "plugin:tailwindcss/recommended",
   ],
   parserOptions: {
     parser: "@babel/eslint-parser",
